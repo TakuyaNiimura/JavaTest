@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class Program3_1{
+public class Program3_2{
     public static void main(String[] args){
         //乱数の呼び出し
         Random rnd = new Random();
